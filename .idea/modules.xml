@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ResSunmi.iml" filepath="$PROJECT_DIR$/ResSunmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SunmiPrinterDemoMini/SunmiPrinterDemoMini.iml" filepath="$PROJECT_DIR$/SunmiPrinterDemoMini/SunmiPrinterDemoMini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestLCD/TestLCD.iml" filepath="$PROJECT_DIR$/TestLCD/TestLCD.iml" />
+    </modules>
+  </component>
+</project>

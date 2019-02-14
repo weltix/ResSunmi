@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestLcd</string>
+
+    <string name="print_1_line">Печатать одну строку</string>
+    <string name="print_2_lines">Печатать две строки</string>
+    <string name="string_1">Строка 1</string>
+    <string name="string_2">Строка 2</string>
+
+</resources>
